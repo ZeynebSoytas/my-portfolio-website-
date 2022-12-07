@@ -36,3 +36,14 @@ nav {
   width: 40px;
   margin: 25px;
 }
+
+.links ul
+{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+.links ul li
+{
+    padding-right: 30px;
+}
