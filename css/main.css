@@ -100,3 +100,23 @@ p {
     height: 300px;
     text-align: center;
 }
+
+.gallery1 .item img{
+    width: 240px;
+    margin-top:80px;
+    margin-bottom: 50px;
+       height: 300px;
+       text-align: center;
+}
+
+.gallery1 .item
+{
+    display: flex;
+        align-items: center;
+        justify-content: center;
+}
+
+.view
+{
+    text-align: center;
+}
