@@ -55,3 +55,15 @@ nav {
     align-items: center;
     background-color:#dfe3df;
 }
+
+.pic-left img {
+    margin:80px;
+    height: 300px;
+    width: 250px;
+}
+
+p {
+    font-size: 25px;
+    flex-wrap: wrap;
+    margin-right: 100px;
+}
