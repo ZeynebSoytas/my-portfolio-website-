@@ -61,6 +61,12 @@ nav {
     height: 300px;
     width: 250px;
 }
+.pic-right img
+{
+    margin-right:80px;
+    height: 300px;
+    width: 250px;
+}
 
 p {
     font-size: 25px;
