@@ -1,5 +1,10 @@
-html {
-  box-sizing: border-box;
+@font-face {
+    font-family: "montserrat";
+    src: url('Montserrat-SemiBold.ttf');
+}
+@font-face {
+    font-family: "source-serif-pro";
+    src: url('SourceSerifPro-Light.ttf');
 }
 
 * {
@@ -12,17 +17,10 @@ html {
   font-family:"source-serif-pro";
 }
 
-@font-face {
-    font-family: "montserrat";
-    src: url('Montserrat-SemiBold.ttf');
-}
-@font-face {
-    font-family: "source-serif-pro";
-    src: url('SourceSerifPro-Light.ttf');
-}
 
-img {
-  max-width: 100%;
+h3 {
+  font-size: 31px;
+  font-family: "montserrat";
 }
 
 nav {
