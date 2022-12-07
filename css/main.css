@@ -6,8 +6,9 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  font-family: 'Montserrat', serif;
+@font-face {
+    font-family: "montserrat";
+    src: url('Montserrat-SemiBold.ttf');
 }
 
 img {
