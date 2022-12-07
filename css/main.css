@@ -25,7 +25,10 @@ h3 {
 
 nav {
   background: #f5f1f3;
-  height: 75px;
+  height: 80px;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 ul  {
