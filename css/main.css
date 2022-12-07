@@ -2,13 +2,23 @@ html {
   box-sizing: border-box;
 }
 
-*,  *::before, *::after {
-  box-sizing: inherit;
+* {
+  margin:0px;
+  padding:0px;
+  text-decoration: none;
+  list-style: none;
+  box-shadow: border-box;
+  font-size: 18px;
+  font-family:"source-serif-pro";
 }
 
 @font-face {
     font-family: "montserrat";
     src: url('Montserrat-SemiBold.ttf');
+}
+@font-face {
+    font-family: "source-serif-pro";
+    src: url('SourceSerifPro-Light.ttf');
 }
 
 img {
