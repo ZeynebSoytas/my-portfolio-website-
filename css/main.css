@@ -119,6 +119,10 @@ figcaption {
        text-align: center;
 }
 
+figcaption {
+  margin: 27px;
+}
+
 .gallery1 .item
 {
     display: flex;
