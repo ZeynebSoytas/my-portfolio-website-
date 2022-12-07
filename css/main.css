@@ -86,6 +86,10 @@ p {
     text-align: center;
 }
 
+figcaption {
+
+}
+
 .gallery{
   display: flex;
   justify-content: space-around;
